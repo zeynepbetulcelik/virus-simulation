@@ -1,0 +1,39 @@
+size 11
+turn_count 30
+entity 1 BBGFB 8x7 infected
+entity 2 EBDCB 10x1
+entity 3 BHFHC 4x2 infected
+entity 4 ADGAH 7x6
+entity 5 EDBCF 3x9 infected
+entity 6 GHBHF 10x4
+entity 7 AGHFF 11x4
+turn 1 9x10 6x9 1x4 9x3 6x1 9x11 2x1
+turn 2 8x4 10x8 1x4 7x10 10x11 5x4 3x6
+turn 3 9x2 3x6 11x2 1x11 11x9 10x4 5x10
+turn 4 7x7 2x9 4x4 8x6 1x11 1x4 3x8
+turn 5 1x10 6x5 11x7 10x4 6x8 7x4 3x11
+turn 6 10x9 4x9 9x10 6x8 10x9 1x3 8x8
+turn 7 9x1 8x10 7x5 6x9 9x9 2x10 4x1
+turn 8 9x11 11x7 1x2 6x8 5x4 10x2 6x5
+turn 9 5x4 8x4 2x5 9x10 7x5 9x5 6x6
+turn 10 3x10 6x4 4x4 3x8 10x7 7x7 11x1
+turn 11 3x4 7x3 8x9 9x4 7x2 1x2 10x5
+turn 12 8x8 4x10 1x7 7x11 11x10 6x10 6x4
+turn 13 6x5 9x10 11x9 7x5 9x3 9x10 3x8
+turn 14 5x10 3x10 7x1 1x10 1x1 4x4 7x7
+turn 15 7x10 6x1 5x1 8x5 9x5 1x4 6x9
+turn 16 7x1 1x6 5x11 6x1 4x4 10x8 5x2
+turn 17 10x6 4x3 8x5 7x3 3x5 9x3 5x9
+turn 18 5x8 5x8 5x3 1x1 2x9 4x4 4x4
+turn 19 3x9 8x4 11x9 1x4 4x5 4x10 7x4
+turn 20 5x2 7x9 7x4 11x3 3x10 8x10 6x10
+turn 21 9x2 6x5 8x8 1x8 1x4 1x1 5x2
+turn 22 7x2 1x6 11x11 9x8 4x3 5x6 5x1
+turn 23 7x1 8x1 5x6 8x8 7x9 7x5 8x5
+turn 24 7x6 2x6 3x5 2x9 8x3 2x6 7x10
+turn 25 9x8 2x7 3x4 7x2 1x11 10x11 3x3
+turn 26 7x10 3x1 2x2 1x11 2x3 11x1 3x1
+turn 27 10x6 2x7 4x10 9x11 9x8 10x6 10x8
+turn 28 3x11 7x7 2x7 7x4 1x4 11x2 7x6
+turn 29 9x9 2x5 11x7 5x3 6x2 1x4 3x8
+turn 30 6x5 5x9 9x9 8x10 10x8 1x5 10x3
