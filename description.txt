@@ -19,8 +19,4 @@ should be made for more turns. Since our habitat is to small and each entity is 
 infected entity can easily infect the others. But the infection will occur after 3 turns so we do not see
 any infection in three turns. “X” shows infected entities, “O” for healthy entities, “D” for dead ones.
 Your application must not include any console input command. Your app directly read the input file,
-generate output.txt and turns.txt files and close itself silently. If you prefer you can draw turns on the
-screen but just the file version will be graded.
-Project deliveries will be done over Google Classroom Web Page and only one code file named
-with your student number must be uploaded. Any other upload types will be discarded. Your file
-must include your name and number as comment at the beginning.
+generate output.txt and turns.txt files and close itself silently. 
