@@ -1,4 +1,5 @@
 # virussimulation
+(this is my term project )
 In this Project You will simulate a laboratory experiment as a life game. You have a habitat that
 contains randomly distributed entities. In our experiment our habitat will be a NxN square place.
 Each entity has 5 different gates which can be named from { A,B,C,D,E,F,G,H } set.
